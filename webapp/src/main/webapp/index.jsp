@@ -1,2 +1,1 @@
-Hi srikanth, changes made and trying to build,simple changes
-welcome to jenkins
+Hi srikanth, welcome to jenkins and tomcat 
