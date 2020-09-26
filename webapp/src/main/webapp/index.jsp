@@ -1,2 +1,2 @@
-Hi srikanth, changes made and trying to build,simple changes,hello world 
-testing in evening
+Hi srikanth, changes made and trying to build,simple changes
+welcome to jenkins
