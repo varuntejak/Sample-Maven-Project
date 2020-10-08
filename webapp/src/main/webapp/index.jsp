@@ -1,1 +1,1 @@
-Hi srikanth and karith , welcome to devops  
+Hi welcome to devops  
